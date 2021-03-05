@@ -1,9 +1,10 @@
-id: opecha:P008008
+id: P008008
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W22096
   title: གསུང་འབུམ། འགྱུར་མེད་རྡོ་རྗེ
-  volume:
+  author: ''
+  volumes:
     ccb6127f798d4df8bd1c3cda64fd756d:
       image_group_id: I2195
       title: ''
@@ -84,7 +85,6 @@ source_metadata:
       title: ''
       volume_number: 16
       total_pages: 766
-  author: ''
 ebook_metadata:
   title: གསུང་འབུམ། འགྱུར་མེད་རྡོ་རྗེ
   author: ''
