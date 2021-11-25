@@ -1,5 +1,7 @@
 id: P008008
 initial_creation_type: ocr
+created_at: 24/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W22096
   title: གསུང་འབུམ། འགྱུར་མེད་རྡོ་རྗེ
@@ -101,10 +103,3 @@ source_metadata:
       volume_number: 16
       total_pages: 766
       base_file: v016.txt
-ebook_metadata:
-  title: གསུང་འབུམ། འགྱུར་མེད་རྡོ་རྗེ
-  author: ''
-  sku: P008008
-  cover: cover.jpg
-  layers:
-  - pagination
